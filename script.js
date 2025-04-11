@@ -1,6 +1,6 @@
 // ===== CONFIGURAÇÕES (EDITE AQUI) =====
  // Observação: o mês começa em 0, então janeiro=0, fevereiro=1, etc.
- const DATA_INICIO_RELACIONAMENTO = new Date(2007, 0, 16); // Adicionar aqui a data de inicio do relacionamnento
+ const DATA_INICIO_RELACIONAMENTO = new Date(2021, 1, 16); // Adicionar aqui a data de inicio do relacionamnento
 
  // Variáveis globais
  let relationshipStartDate = DATA_INICIO_RELACIONAMENTO;
